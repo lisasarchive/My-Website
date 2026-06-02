@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lisasarchive07",
+  "compatibility_date": "2026-06-02",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "lisasArchiveWebsite"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
